@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Nykaa</title>
+	<link rel="icon" type="image/x-icon" href="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/NykaaLogo.png">
+	<style type="text/css">
+
+		/*      navigation bar    */
+		*{
+			padding: 0px;
+			margin: 0px;
+		}
+		.navigation{
+			width: 100vw;
+			height: 10vh;
+			border-bottom: solid;
+			border-width: 0.1em;
+			border-color: grey;
+		}
+		.nav-bar{
+			display: grid;
+			grid-template-columns: auto auto;
+			grid-column-gap: 20vw;
+			margin-top: 1vh;
+			margin-left: 2vw;
+		}
+		.nav-bar img{
+			height: 9vh;
+			width: 10vw;
+		}
+		.nav-bar ul{
+			list-style: none;
+			display: grid;
+			grid-template-columns: auto auto auto auto;
+			margin-top: 2vh;
+
+		}
+		.nav-bar ul input{
+			margin-right: 5vw;
+			height: 5vh;
+			width: 20vw;
+		}
+		.nav-bar ul a:hover{
+			transform: scale(1.2);
+			transition: 0.1s;
+			color: #fc2779;
+		}
+		.nav-bar ul li a{
+			text-decoration: none;
+			color: black;
+		}
+		/*.l-items{
+			border: none;
+			border-radius: 10px;
+			padding: 5px;
+			background-color: #fc2779;
+			width: 50px;
+			text-align: center;
+			align-items: center;
+			
+		}
+		.l-items a{
+			color: white;
+		}*/
+		.main img{
+			width: 100vw;
+			height: 60vh;
+		}
+
+
+		.content{
+			margin-top: 30px;
+			display: grid;
+			grid-template-columns: auto auto auto;
+			grid-column-gap: 2vw;
+			margin-left: 2vw;
+		}
+		.card{
+			width: 25vw;
+			height: 40vh;
+			border: solid;
+			border-width: 0.1em;
+			border-color: grey;
+			border-radius: 10px;
+		}
+		.card h2{
+			margin-left: 10px;
+			color: red;
+			font-family: sans-serif;
+		}
+		.card img{
+			width: 25vw;
+			height: 30vh;
+			border: none;
+			border-top-left-radius: 10px;
+			border-top-right-radius: 10px;
+		}
+		h1.deals{
+			margin-left: 25px;
+			margin-top: 30px;
+		}
+		.card:hover{
+			transform: scale(1.05);
+			transition: 0.4s;
+			box-shadow: 5px 5px 10px 1px;
+		}
+		.card h4{
+			color: black;
+			margin-left: 10px;font-family: sans-serif;
+		}
+		.founder img{
+			margin-top: 20px;
+			width: 100vw;
+			height: 70vh;
+			margin-bottom: 20px;
+
+
+		}
+		.other-cards{
+			margin-top: 30px;
+			display: grid;
+			grid-template-columns: auto auto auto;
+			grid-column-gap: 2vw;
+			grid-row-gap: 5vh;
+			margin-left: 2vw;
+		}
+		.ft{
+			height: 40vh;
+			width: 100vw;
+			display: grid;
+			grid-template-columns: auto auto auto;
+			margin-top: 40px;
+			background-color: rgba(0,0,0,0.4);
+		}
+		.ft ul{
+			list-style: none;
+			margin: 30px;
+			width: 8vw;
+		}
+		.ft .item{
+			color: white;
+			font-family: sans-serif;
+			margin-top: 10px;
+		}
+		.ft .item:hover{
+			color: black;
+
+
+		}
+		.hd{
+			padding: 0px 0px 5px;
+			border-bottom: solid;
+			border-width: 0.19px;
+			border-color: black;
+
+		}
+	</style>
+</head>
+<body>
+
+	<!-- navigation menu    -->
+
+
+	<div class="navigation">
+		<div class="nav-bar">
+			<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/NykaaLogo.png">
+			<ul>
+				<input type="search" name="search" placeholder="search here">
+				<li class="n-items"><a href="#">Home</a></li>
+				<li class="n-items"><a href="#">Register</a></li>
+				<li class="l-items"><a href="#">Login</a></li>
+				<li class="n-items"><a href="#"></a></li>
+			</ul>
+		</div>
+	</div>
+
+
+
+	<!--    main bar    -->
+
+	<div class="main">
+		<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/bg.jpg">
+	</div>
+<marquee style="color: red";>Nykaa is an Indian e-commerce company, founded by Falguni Nayar in 2012 and headquartered in Mumbai. It sells beauty, wellness and fashion products across websites, mobile apps and 100+ offline stores. In 2020, it became the first Indian unicorn startup headed by a woman.</marquee><hr>
+
+<h1 class="deals">Top Deals</h1>
+<div class="content">
+
+
+
+
+	<div class="card">
+		<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/1.jpeg">
+		<h2>Upto 40% discount</h2>
+		<h4>MAkeUp Products</h4>
+	</div>
+
+	<div class="card">
+		<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/2.jpeg">
+		<h2>Upto 90% discount</h2>
+		<h4>lipsticks</h4>
+	</div>
+
+
+	<div class="card">
+		<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/3.jpeg">
+		<h2>Upto 20% discount</h2>
+		<h4>HUrry up to avail</h4>
+	</div>
+
+
+
+
+
+
+</div>
+
+
+<div class="founder">
+	<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/nykafounder.jpeg">
+</div>
+
+<h1 class="deals">Other Deals</h1>
+
+<div class="other-cards">
+
+
+	<div class="card">
+		<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/png1.png">
+		<h2>Makeup</h2>
+		<h4>HUrry up to avail</h4>
+	</div>
+
+	<div class="card">
+		<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/6.jpeg">
+		<h2>Lipsticsk</h2>
+		<h4>HUrry up to avail</h4>
+	</div>
+
+
+	<div class="card">
+		<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/png2.png">
+		<h2>Powder</h2>
+		<h4>HUrry up to avail</h4>
+	</div>
+
+	<div class="card">
+		<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/4.jpeg">
+		<h2>Extra items</h2>
+		<h4>HUrry up to avail</h4>
+	</div>
+
+	<div class="card">
+		<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/7.jpeg">
+		<h2>makeup kits</h2>
+		<h4>HUrry up to avail</h4>
+	</div>
+
+
+	<div class="card">
+		<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/3.jpeg">
+		<h2>brush</h2>
+		<h4>HUrry up to avail</h4>
+	</div>
+
+
+</div>
+
+
+</body>
+<footer class="ft">
+	<ul class="first">
+		<h2 class="hd">Details</h2>
+		<li class="item">About us</li>
+		<li class="item">Contact</li>
+		<li class="item">Email</li>
+	</ul>
+
+	<ul class="second">
+		<h2 class="hd">Services</h2>
+		<li class="item">Buy</li>
+		<li class="item">Login</li>
+		<li class="item">Register</li>
+	</ul>
+<div class="ig">
+	<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/NykaaLogo.png">
+	<h5  style="font-family: sans-serif;font-weight: 1px;", class="cr">&#169; All Rights are Reserved 2023</h5>
+</div>
+</footer>
+</html>
