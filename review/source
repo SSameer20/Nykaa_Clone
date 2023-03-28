@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Nykaa</title>
-	<link rel="icon" type="image/x-icon" href="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/NykaaLogo.png">
+	<link rel="icon" type="image/x-icon" href="https://imgs.search.brave.com/I9Eq64kRAL4yNoWXyk7glJFOucoDzPe6fpAOmH2QhIE/rs:fit:826:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5R/UWt4aS04cUJ4ZGxl/UEJPWkZNR2VnSGFF/USZwaWQ9QXBp">
 	<style type="text/css">
 
 		/*      navigation bar    */
@@ -163,9 +163,9 @@
 
 	<div class="navigation">
 		<div class="nav-bar">
-			<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/NykaaLogo.png">
+			<img src="https://imgs.search.brave.com/I9Eq64kRAL4yNoWXyk7glJFOucoDzPe6fpAOmH2QhIE/rs:fit:826:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5R/UWt4aS04cUJ4ZGxl/UEJPWkZNR2VnSGFF/USZwaWQ9QXBp">
 			<ul>
-				<input type="search" name="search" placeholder="search here">
+				<input type="search" name="search" placeholder="   search here">
 				<li class="n-items"><a href="#">Home</a></li>
 				<li class="n-items"><a href="#">Register</a></li>
 				<li class="l-items"><a href="#">Login</a></li>
@@ -179,7 +179,7 @@
 	<!--    main bar    -->
 
 	<div class="main">
-		<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/bg.jpg">
+		<img src="https://imgs.search.brave.com/wZM5a9feeY3blm6Peg2TFXzMNwllm6wS-gP2kUkmiTo/rs:fit:630:315:1/g:ce/aHR0cHM6Ly9jZG4u/Z3JhYm9uLmluL2dv/Z3JhYm9uL2ltYWdl/cy9tZXJjaGFudC8x/NTc1MTEzNzU4MDIy/LmpwZw">
 	</div>
 <marquee style="color: red";>Nykaa is an Indian e-commerce company, founded by Falguni Nayar in 2012 and headquartered in Mumbai. It sells beauty, wellness and fashion products across websites, mobile apps and 100+ offline stores. In 2020, it became the first Indian unicorn startup headed by a woman.</marquee><hr>
 
@@ -190,22 +190,22 @@
 
 
 	<div class="card">
-		<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/1.jpeg">
+		<img src="https://imgs.search.brave.com/3Lpewhq78pDJNeyh8VVgEM4f1HYLnwz4M50sg0rs0mQ/rs:fit:960:958:1/g:ce/aHR0cHM6Ly9pbmRp/YW5idWRnZXRiZWF1/dHkuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIwLzAxL055/a2FhLUp1c3QtV2lu/ay1JdC0xMi1pbi0x/LUV5ZXNoYWRvdy1Q/YWxldHRlLXJldmll/dy5qcGc">
 		<h2>Upto 40% discount</h2>
-		<h4>MAkeUp Products</h4>
+		<h4>MakeUp Products</h4>
 	</div>
 
 	<div class="card">
-		<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/2.jpeg">
+		<img src="https://imgs.search.brave.com/mplRUiij-PoVvVqyFJUWMpPo8eCa6GOwRTqHTQ557xU/rs:fit:742:647:1/g:ce/aHR0cHM6Ly9pbmRp/YW5idWRnZXRiZWF1/dHkuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIwLzAxL055/a2FhLU1hdHRlLVRv/LUxhc3QtTGlxdWlk/LUxpcHN0aWNrLmpw/Zw">
 		<h2>Upto 90% discount</h2>
 		<h4>lipsticks</h4>
 	</div>
 
 
 	<div class="card">
-		<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/3.jpeg">
+		<img src="https://imgs.search.brave.com/13J9LjlWJSRj6oW4njqonQ5kqB1CQs2etg2-xtD7mDg/rs:fit:832:578:1/g:ce/aHR0cHM6Ly9ydWtt/aW5pbTEuZmxpeGNh/cnQuY29tL2ltYWdl/LzgzMi84MzIvanl2/dmdjdzAvZXllLXNo/YWRvdy9jL3EvZy85/LTYtZXllc2hhZG93/LXBhbGV0dGUtbnlr/YWEtb3JpZ2luYWwt/aW1hZmp5eHNiZ3V0/OGhmeC5qcGVnP3E9/NzA">
 		<h2>Upto 20% discount</h2>
-		<h4>HUrry up to avail</h4>
+		<h4>Hurry up to avail</h4>
 	</div>
 
 
@@ -217,7 +217,7 @@
 
 
 <div class="founder">
-	<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/nykafounder.jpeg">
+	<img src="https://imgs.search.brave.com/wxtztfza9jYhmJ0isFQCBUe35gaqPKOrn8DAhGVO0NI/rs:fit:1200:675:1/g:ce/aHR0cHM6Ly9zdGF0/aWMuc3RhcnR1cHRh/bGt5LmNvbS8yMDIx/LzA2L0ZhbGd1bmkt/TmF5YXItTnlrYWEt/Rm91bmRlci1TdGFy/dHVwVGFsa3kuanBn">
 </div>
 
 <h1 class="deals">Other Deals</h1>
@@ -226,46 +226,92 @@
 
 
 	<div class="card">
-		<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/png1.png">
+		<img src="https://imgs.search.brave.com/siyLSHD8aYWQ3DXjoer5wv2kSUB1RDmB3POsDwaZ0-o/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Z/U0tqSTRBVGFObER3/ckNMcGU2WDFRSGFF/SyZwaWQ9QXBp">
 		<h2>Makeup</h2>
 		<h4>HUrry up to avail</h4>
 	</div>
 
 	<div class="card">
-		<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/6.jpeg">
+		<img src="https://imgs.search.brave.com/ya1-TEfrUGuW8w2OH0fbKyWxOSdtFt5YRdJFx4TYsX0/rs:fit:1200:1200:1/g:ce/aHR0cDovL21ha2V1/cGFuZHNtaWxlcy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTcvMDgvaW1nXzQ2/NTIuanBn">
 		<h2>Lipsticsk</h2>
 		<h4>HUrry up to avail</h4>
 	</div>
 
 
 	<div class="card">
-		<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/png2.png">
+		<img src="https://imgs.search.brave.com/IieSxy18iQRIk7-5dpGeImRXHR6F40nBC2CCbd1Wa10/rs:fit:1024:766:1/g:ce/aHR0cHM6Ly93d3cu/a2h1c2hpaGFtZXNo/YS5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTgvMTAvTmV3/LURvYy0yMDE4LTEw/LTEwLTE1LjU3LjQx/XzItMTAyNHg3NjYu/anBn">
 		<h2>Powder</h2>
 		<h4>HUrry up to avail</h4>
 	</div>
 
 	<div class="card">
-		<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/4.jpeg">
+		<img src="https://imgs.search.brave.com/7lyaYVntmlrZyajxMTYWmvwokNH8wPuXWwahEztpHdU/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sbXNp/bi5uZXQvY2RuLWNn/aS9pbWFnZS9oPTU1/MCx3PTU1MCxxPTYw/LGZpdD1jb3Zlci9o/dHRwczovL2FhZWZm/NDNmZTMyMTcyY2Jj/ZWNjLWFlMmE0ZTlh/OGNiYzMzMGVkZTU1/ODhkZWRmNTY4ODZl/Lmxtc2luLm5ldC9s/aWZlc3R5bGUvMTAw/MDAwODk3ODM2OC0x/MDAwMDA4OTc4MzY3/XzA1LTIxMDAuanBn">
 		<h2>Extra items</h2>
 		<h4>HUrry up to avail</h4>
 	</div>
 
 	<div class="card">
-		<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/7.jpeg">
+		<img src="https://imgs.search.brave.com/Htdro9ywRjlvNJ0c8lifhfAGB_w_hQQxhsbTOMNYuOE/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5q/OUg0dEdpckwzT1Vx/UHdTbXM5d05BSGFF/OCZwaWQ9QXBp">
 		<h2>makeup kits</h2>
 		<h4>HUrry up to avail</h4>
 	</div>
 
 
 	<div class="card">
-		<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/3.jpeg">
+		<img src="https://imgs.search.brave.com/o-n1KIJB9gNNhJ3tVeSzZJMxCWbGoFbDVk1u7YA8-Zk/rs:fit:768:439:1/g:ce/aHR0cHM6Ly9pbWcu/cmVwdWJsaWN3b3Js/ZC5jb20vcmVwdWJs/aWMtcHJvZC9zdG9y/aWVzL3Byb21vbGFy/Z2UveGhkcGkvYW5w/bjlwZDR6aGNkdm91/NV8xNTk1ODM2ODU2/LmpwZWc">
 		<h2>brush</h2>
 		<h4>HUrry up to avail</h4>
 	</div>
 
 
 </div>
+<div class="founder">
+	<img src="https://imgs.search.brave.com/ln0OsfjivcdjqW_-gii_JHNRpOPLeRi-UZOS4fFUW1U/rs:fit:948:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5C/by1YSmYydTJidkp2/UEZvVWJaUUJBSGFE/dCZwaWQ9QXBp">
+</div>
+<div class="other-cards">
 
+	<div class="card">
+		<img src="https://imgs.search.brave.com/7lyaYVntmlrZyajxMTYWmvwokNH8wPuXWwahEztpHdU/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sbXNp/bi5uZXQvY2RuLWNn/aS9pbWFnZS9oPTU1/MCx3PTU1MCxxPTYw/LGZpdD1jb3Zlci9o/dHRwczovL2FhZWZm/NDNmZTMyMTcyY2Jj/ZWNjLWFlMmE0ZTlh/OGNiYzMzMGVkZTU1/ODhkZWRmNTY4ODZl/Lmxtc2luLm5ldC9s/aWZlc3R5bGUvMTAw/MDAwODk3ODM2OC0x/MDAwMDA4OTc4MzY3/XzA1LTIxMDAuanBn">
+		<h2>Extra items</h2>
+		<h4>HUrry up to avail</h4>
+	</div>
+
+	<div class="card">
+		<img src="https://imgs.search.brave.com/Htdro9ywRjlvNJ0c8lifhfAGB_w_hQQxhsbTOMNYuOE/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5q/OUg0dEdpckwzT1Vx/UHdTbXM5d05BSGFF/OCZwaWQ9QXBp">
+		<h2>makeup kits</h2>
+		<h4>HUrry up to avail</h4>
+	</div>
+
+
+	<div class="card">
+		<img src="https://imgs.search.brave.com/o-n1KIJB9gNNhJ3tVeSzZJMxCWbGoFbDVk1u7YA8-Zk/rs:fit:768:439:1/g:ce/aHR0cHM6Ly9pbWcu/cmVwdWJsaWN3b3Js/ZC5jb20vcmVwdWJs/aWMtcHJvZC9zdG9y/aWVzL3Byb21vbGFy/Z2UveGhkcGkvYW5w/bjlwZDR6aGNkdm91/NV8xNTk1ODM2ODU2/LmpwZWc">
+		<h2>brush</h2>
+		<h4>HUrry up to avail</h4>
+	</div>
+
+	<div class="card">
+		<img src="https://imgs.search.brave.com/siyLSHD8aYWQ3DXjoer5wv2kSUB1RDmB3POsDwaZ0-o/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Z/U0tqSTRBVGFObER3/ckNMcGU2WDFRSGFF/SyZwaWQ9QXBp">
+		<h2>Makeup</h2>
+		<h4>HUrry up to avail</h4>
+	</div>
+
+	<div class="card">
+		<img src="https://imgs.search.brave.com/ya1-TEfrUGuW8w2OH0fbKyWxOSdtFt5YRdJFx4TYsX0/rs:fit:1200:1200:1/g:ce/aHR0cDovL21ha2V1/cGFuZHNtaWxlcy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTcvMDgvaW1nXzQ2/NTIuanBn">
+		<h2>Lipsticsk</h2>
+		<h4>HUrry up to avail</h4>
+	</div>
+
+
+	<div class="card">
+		<img src="https://imgs.search.brave.com/IieSxy18iQRIk7-5dpGeImRXHR6F40nBC2CCbd1Wa10/rs:fit:1024:766:1/g:ce/aHR0cHM6Ly93d3cu/a2h1c2hpaGFtZXNo/YS5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTgvMTAvTmV3/LURvYy0yMDE4LTEw/LTEwLTE1LjU3LjQx/XzItMTAyNHg3NjYu/anBn">
+		<h2>Powder</h2>
+		<h4>HUrry up to avail</h4>
+	</div>
+
+	
+
+
+</div>
 
 </body>
 <footer class="ft">
@@ -283,7 +329,7 @@
 		<li class="item">Register</li>
 	</ul>
 <div class="ig">
-	<img src="file:///C:/Users/91984/Desktop/Untitled/HtmlPractice/blog%20media/NykaaLogo.png">
+	<img src="https://imgs.search.brave.com/eIzLp9AGkrFq9M_uCeSmKTAiV5MM2wJTnMXGNkGQ5VE/rs:fit:1154:837:1/g:ce/aHR0cHM6Ly93d3cu/YmVhdXRlZXNwYWNl/Lm5ldC93cC1jb250/ZW50L3VwbG9hZHMv/MjAxOS8xMS8xMDAw/WDgzN3B4X05ZS0FB/X2xvZ28uanBn" style="width:20vw; height: 20vh;margin-top: 5vh; margin-bottom: 5vh;">
 	<h5  style="font-family: sans-serif;font-weight: 1px;", class="cr">&#169; All Rights are Reserved 2023</h5>
 </div>
 </footer>
